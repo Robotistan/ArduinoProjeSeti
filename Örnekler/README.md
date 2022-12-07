@@ -16,7 +16,7 @@
 ##### 14 - [Hareket Sensörü(PIR) ile Servo Motor Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Hareket%20Sens%C3%B6r%C3%BC%20ile%20Servo%20Motor%20Kontrol%C3%BC	"Heading Link")
 ##### 15 - [Bluetooth ile RGB LED Kontrolü ](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/RGB%20Led%20Control%20with%20Bluetooth "Heading Link")
 ##### 16 - [Dijital Saat](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Making%20a%20Digital%20Clock%20with%20Arduino "Heading Link")
-##### 17 - [Arduino ile Toprak Nem Sensörü Kullanımı (https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20Soil%20Moisture%20Sensor%20with%20Arduino "Heading Link" )
+##### 17 - Arduino ile Toprak Nem Sensörü Kullanımı ](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Making%20a%20Digital%20Clock%20with%20Arduino "Heading Link")
 ##### 18 - [Yağmur Sensörü kUllanımı](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20Rain%20Sensor%20with%20Arduino "Heading Link")
 ##### 19 - [Gas Sensörü kUllanımı](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20Gas%20Sensor%20with%20Arduino "Heading Link")
 ##### 20 - [RFID Sensörü kUllanımı](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20RFID%20Sensor%20with%20Arduino "Heading Link")
