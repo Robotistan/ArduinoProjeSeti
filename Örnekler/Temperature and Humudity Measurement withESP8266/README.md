@@ -1,10 +1,9 @@
-## Step Motor Control with ESP8266
+## ESP8266 ile Sıcaklık ve Nem Ölçümü
 
-In this application, you will send the temperature and humidity data received via DHT11 to Thingspeak platform using ESP8266 WiFi module.
-The UART protocol is used when communicating with ESP8266. in this example, we will use the 115200 Baud rate (Communication speed).
-Thingspeak is an open source loT (lnternet of Things) application. Users send data to the site via HTTP and make their own applications visually better and easy to understand thanks to the graphical interfaces on the site. In this example, time-humidity and time-temperature graphs will be generated in Thingspeak with data from the DHT11 sensor.
+Bu uygulamada DHT11 üzerinden aldığınız sıcaklık ve nem verilerini ESP8266 WiFi modülünü kullanarak Thingspeak platformuna gönderilecektir.
+UART protokolü, ESP8266 ile iletişim kurulurken kullanılır.Bu örnekte 115200 Baud hızını (İletişim hızı) kullanacağız.
+Thingspeak, açık kaynaklı bir IoT (Nesnelerin İnterneti) uygulamasıdır. Kullanıcılar HTTP üzerinden siteye veri göndermekte ve sitedeki grafik arayüzler sayesinde kendi uygulamalarını görsel olarak daha iyi ve kolay anlaşılır hale getirmektedir. Bu örnekte, DHT11 sensöründen alınan verilerle Thingspeak'te zaman-nem ve zaman-sıcaklık grafikleri oluşturulacaktır.
 
-Let's set up the circuit and then start writing our project code.
 
 
 ![image](https://user-images.githubusercontent.com/111511331/191267702-2cb30877-8ae8-45cd-b627-54b6807e7cf6.png)
