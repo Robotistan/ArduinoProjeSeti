@@ -1,8 +1,6 @@
-## RGB Led Control with Bluetooth
+## Bluetooth ile RGB Led Kontrolü
 
-In this example, you will receive the data sent via the Bluetooth module and check the color of the RGB LED.R GB is a term formed by combining the initials of Red, Green and Blue. RGB led is a component consisted of the combination of 3 LEDs of main colors. it allows the creation of color combinations by giving different voltages to the LEDs of different colors inside. There are two kinds of RGB LED types. These are the common anode and common cathode. The common anode RGB LED is made by combining the positive pins of the 3 LEDs inside. The common cathode RGB LED is made by combining the negative pins of the 3 LEDs inside. in this example, common anode RGB LED was used.
-
-Let's set up circuit and continue with coding.
+Bu örnekte Bluetooth modülü aracılığıyla gönderilen verileri alacak ve RGB LED'in rengini kontrol edeceksiniz.R GB, Red, Green ve Blue'nun baş harflerinin birleştirilmesiyle oluşturulmuş bir terimdir. RGB led, ana renklerden 3 adet LED'in birleşiminden oluşan bir bileşendir. içindeki farklı renkteki ledlere farklı voltajlar vererek renk kombinasyonlarının oluşturulmasına olanak sağlar. İki tür RGB LED tipi vardır. Bunlar ortak anot ve ortak katottur. Ortak anot RGB LED, içindeki 3 LED'in pozitif pinlerinin birleştirilmesiyle yapılır. Ortak katot RGB LED, içindeki 3 LED'in negatif pinlerinin birleştirilmesiyle yapılır. bu örnekte ortak anotlu RGB LED kullanılmıştır.
 
 
 
