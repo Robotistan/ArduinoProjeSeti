@@ -1,10 +1,9 @@
-## Using Rain Sensor with Arduino
+## Arduino ile Yağmur Sensörünü Kullanma
 
-lf the weather is rainy, when the amount of water above the rain sensor exceeds a certain threshold, it will send a signal and the buzzer on the circuit will start to make sound. We prepared this circuit to give an alarm according to the signal received via the analog pin. The rain sensor consists of two electrodes. it informs us by measuring the conductivity between the electrodes. Water drops on the sensor increase the conductivity between the electrodes. The sensor sends this data as analog and digital outputs.
-You will read the data from the rain sensor in the code and ensure that it will sound alarm with the buzzer when it rains.
+Hava yağışlı ise yağmur sensörünün üzerindeki su miktarı belli bir eşiğin üzerine çıktığında sinyal gönderecek ve devre üzerindeki buzzer ses vermeye başlayacaktır. Analog pin üzerinden alınan sinyale göre alarm vermesi için bu devreyi hazırladık. Yağmur sensörü iki elektrottan oluşur. elektrotlar arasındaki iletkenliği ölçerek bizi bilgilendirir. Sensörün üzerine düşen su damlaları elektrotlar arasındaki iletkenliği arttırır. Sensör bu verileri analog ve dijital çıkışlar olarak gönderir.
+Kod içerisindeki yağmur sensöründen gelen verileri okuyacak ve yağmur yağdığında buzzer ile alarm vermesini sağlayacaksınız.
 
 
-Let's set up the circuit and then start writing our project code.
 
 
 
