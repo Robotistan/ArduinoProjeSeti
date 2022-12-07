@@ -1,4 +1,4 @@
-## Using Gas Sensor with Arduino
+## Arduino ile Gaz Sensörü Kullanma
 
 Bu devrede gaz sensörü ile alarm yapacağız. Doğalgaz miktarı belli bir eşiği geçtiğinde sinyal gönderecek ve devre üzerindeki buzzer çalmaya başlayacaktır.
 
