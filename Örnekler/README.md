@@ -1,4 +1,4 @@
-## Activities From Easy To Difficult
+## Kolaydan Zora Örnekler
 
 ##### 1 - [LED Yakma](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/LED%20Yakma "Heading Link")
 ##### 2 - [Buton ile LED Yakma](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Buton%20ile%20LED%20Yakma "Heading Link")
@@ -14,3 +14,11 @@
 ##### 12 - [IR Kumanda ile LED Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/IR%20Kontrol%C3%BC%20ile%20LED%20Kontrol%C3%BC "Heading Link")
 ##### 13 - [Arduino ile Dijital Metre Yapımı](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Arduino%20Dijital%20Metre%20Yap%C4%B1m%C4%B1 "Heading Link")
 ##### 14 - [Hareket Sensörü(PIR) ile Servo Motor Kontrolü](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler/Hareket%20Sens%C3%B6r%C3%BC%20ile%20Servo%20Motor%20Kontrol%C3%BC	"Heading Link")
+##### 15 - [Bluetooth ile RGB LED Kontrolü ](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/RGB%20Led%20Control%20with%20Bluetooth "Heading Link")
+##### 16 - [Dijital Saat](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Making%20a%20Digital%20Clock%20with%20Arduino "Heading Link")
+##### 17 - [Arduino ile Toprak Nem Sensörü Kullanımı (https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20Soil%20Moisture%20Sensor%20with%20Arduino "Heading Link" )
+##### 18 - [Yağmur Sensörü kUllanımı](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20Rain%20Sensor%20with%20Arduino "Heading Link")
+##### 19 - [Gas Sensörü kUllanımı](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20Gas%20Sensor%20with%20Arduino "Heading Link")
+##### 20 - [RFID Sensörü kUllanımı](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Using%20RFID%20Sensor%20with%20Arduino "Heading Link")
+##### 21 - [ESP8266 İle Sıcaklık Ölçümü](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Temperature%20and%20Humudity%20Measurement%20withESP8266 "Heading Link")
+##### 22 - [ESP8266 ile Step Motor Kontrolü](https://github.com/Robotistan/ArduinoProjectKit/tree/main/Examples/Step%20Motor%20Control%20with%20ESP8266 "Heading Link")
