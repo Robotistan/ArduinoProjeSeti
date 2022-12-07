@@ -1,9 +1,8 @@
-## Using RFD Sensor with Arduino
+## Arduino ile RFD Sensörü Kullanma
 
-In this application, the RFID card reader will read the 1D number of the card and sent it to Arduino via SPI (Serial Perhiperal lnterface) protocol. lf the 1D number is registered in the system, it activates the servo and opens the door. lf it is not registered, the door remains closed
-SPI is a serial communication protocol based on Master-Slave logic. That is, they need a clock signal to work synchronously with each other. in this way, communication is provided more reliably than asynchronous protocols such as UART. Far SPI, you will need at least 4 pins. SCK is used far the clock signal. MOSI (Master Out Slave in) is used to send data from the master device to the slave. MISO (Master in Slave Out) is used to send data from the slave device to the master. The SS (Slave Select) pin determines which device the master device communicates with. The RC522 RFID module used in this application alsO communicates via the SPI protocol.
+Bu uygulamada, RFID kart okuyucu, kartın 1D numarasını okuyacak ve SPI (Serial Periferal Arayüz) protokolü aracılığıyla Arduino'ya göndereceğiz. 1D numarası sisteme kayıtlı ise servoyu aktif hale getirir ve kapıyı açar. Kayıtlı değilse kapı kapalı kalır.
+SPI, Master-Slave mantığına dayalı bir seri iletişim protokolüdür. Yani birbirleri ile senkron çalışabilmeleri için bir saat sinyaline ihtiyaç duyarlar. bu sayede iletişim, UART gibi asenkron protokollere göre daha güvenilir bir şekilde sağlanır. Uzak SPI, en az 4 pine ihtiyacınız olacak. SCK, saat sinyali için kullanılır. MOSI (Master Out Slave in), ana cihazdan bağımlı cihaza veri göndermek için kullanılır. MISO (Master in Slave Out), bağımlı cihazdan ana cihaza veri göndermek için kullanılır. SS (Slave Select) pimi, ana cihazın hangi cihazla iletişim kurduğunu belirler. Bu uygulamada kullanılan RC522 RFID modülü de SPI protokolü üzerinden haberleşir.
 
-Let's set up the circuit and then start writing our project code.
 
 
 ![image](https://user-images.githubusercontent.com/111511331/191033255-5903ede8-88e4-4722-a2a9-bca0ce01aecd.png)
