@@ -1,12 +1,11 @@
-## Making a Digital Meter with Arduino
+## Arduino ile Dijital Metre Yapımı
 
-The ultrasonic distance sensor is a device that can send a sound wave and detect the reflected sound wave. LCD is an element that displays characters on the screen according to the data provided. The LCD screen consists of 2 lines and can display 16 characters per line. Each character consists of 5x7 pixels.
-The potentiometer is an adjustable resistor. in this circuit we used the potentiometer as a voltage divider. When the voltage is sent to two different resistors connected in series, voltages proportional to the resistance values on the resistors are obtained. And the potentiometer can be used as a voltage divider. When the potentiometer is turned, the voltage of the middle pin changes. This changing voltage allows adjusting the Contrast of the LCD screen. Let's continue with setting up the circuit.
+Ultrasonik mesafe sensörü, ses dalgası gönderebilen ve yansıyan ses dalgasını algılayabilen bir cihazdır. LCD, sağlanan verilere göre ekranda karakterleri görüntüleyen bir öğedir.TLCD ekran 2 satırdan oluşur ve her satırda 16 karakter görüntüleyebilir. Her karakter 5x7 pikselden oluşur.
+Potansiyometre ayarlanabilir bir dirençtir. Bu devrede potansiyometreyi voltaj bölücü olarak kullandık. Seri bağlı iki farklı dirence gerilim gönderildiğinde dirençler üzerindeki direnç değerleri ile orantılı gerilimler elde edilir. Ve potansiyometre voltaj bölücü olarak kullanılabilir. Potansiyometre döndürüldüğünde orta pimin voltajı değişir. Bu değişen voltaj, LCD ekranın Kontrastının ayarlanmasına izin verir. 
 
 
 
-After setting up the circuit, let's continue with coding.
-
+Devreyi kurduktan sonra kodlamaya geçelim.
 
 
 ![image](https://user-images.githubusercontent.com/111511331/191007226-91a9c3c9-15d4-468b-8752-c37540cf0205.png)
