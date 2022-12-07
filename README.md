@@ -72,9 +72,9 @@ Bir Arduino kartı satın aldığınızda ekstradan bir donanım kullanmadan yap
 [<img src="https://i.ytimg.com/vi/_2JJ29kmwRU/maxresdefault.jpg" width="80%">](https://www.youtube.com/watch?v=_2JJ29kmwRU "Now in Android: 55")
 
 ## Repo İçeriği
-- ##### [Örnekler](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/%C3%96rnekler "Heading link") 
-- ##### [Kitap](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/Kitap "Heading link")
-- ##### [Dokümanlar](https://github.com/Robotistan/ArduinoSuperBaslangicSeti/tree/main/Dok%C3%BCmanlar "Heading link")
+- ##### [Örnekler](https://github.com/Robotistan/ArduinoProjeSeti/tree/main/%C3%96rnekler "Heading link") 
+- ##### [Kitap](https://github.com/Robotistan/ArduinoProjeSeti/tree/main/Kitap "Heading link")
+- ##### [Dokümanlar](https://github.com/Robotistan/ArduinoProjeSeti/tree/main/Dok%C3%BCmanlar "Heading link")
 
 # Arduino İçerikleri
 
